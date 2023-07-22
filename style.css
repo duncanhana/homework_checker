@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.user {
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #f3f3f3;
+}
+
+.progress-bar-inner {
+    height: 20px;
+    width: 0;
+    background-color: #4CAF50;
+}
